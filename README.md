@@ -2,9 +2,9 @@
 
 AI Systems Builder • AI Product Architect • AI Workflow Engineer
 
-I design and build AI-driven software systems by combining product architecture thinking with AI-assisted development workflows.
+I design and build **AI-driven software systems** by combining product architecture thinking with **AI-assisted development workflows**.
 
-My work focuses on building structured AI platforms that operate reliably in real-world environments.
+My focus is building **structured AI platforms that operate reliably in real-world environments**.
 
 ---
 
@@ -17,7 +17,7 @@ I specialize in designing systems that combine:
 * structured domain knowledge
 * scalable SaaS architecture
 
-The goal is to build AI platforms that can move from experimentation to production environments.
+The goal is to build **AI platforms that can move from experimentation to production environments**.
 
 ---
 
@@ -25,7 +25,7 @@ The goal is to build AI platforms that can move from experimentation to producti
 
 ## DICOS — Domain Intelligence Content Operating System
 
-A multi-tenant SaaS platform for generating domain-aware, policy-constrained content across multiple channels.
+A multi-tenant SaaS platform for generating **domain-aware, policy-constrained content across multiple channels**.
 
 Key ideas:
 
@@ -35,7 +35,7 @@ Key ideas:
 * multi-tenant SaaS architecture
 * asynchronous processing infrastructure
 
-Portfolio documentation:
+Architecture documentation:
 
 https://github.com/gboalabi/ai-product-builder/tree/main/projects/dicos
 
@@ -43,20 +43,25 @@ https://github.com/gboalabi/ai-product-builder/tree/main/projects/dicos
 
 ## IKIRA AI Studio
 
-An AI creation platform designed to support multi-model generation pipelines.
+An AI creation platform designed to support **multi-model content generation pipelines**.
 
 Focus areas:
 
 * image generation pipelines
 * video generation orchestration
 * AI model routing systems
+* modular AI tool integrations
 * AI-assisted creative workflows
+
+Architecture documentation:
+
+https://github.com/gboalabi/ai-product-builder/tree/main/projects/ikira-ai-studio
 
 ---
 
 ## AI Knowledge Hub
 
-A platform for building domain-specific AI knowledge systems.
+A platform for building **domain-specific AI knowledge systems** that allow organizations to interact with their documents and data through AI.
 
 Key capabilities:
 
@@ -64,12 +69,17 @@ Key capabilities:
 * vector search infrastructure
 * retrieval-augmented generation
 * domain-aware knowledge systems
+* AI-powered knowledge interfaces
+
+Architecture documentation:
+
+https://github.com/gboalabi/ai-product-builder/tree/main/projects/ai-knowledge-hub
 
 ---
 
 ## Viral Waves
 
-A signal intelligence system designed to identify and monitor emerging digital trends.
+A signal intelligence system designed to identify and monitor **emerging digital trends**.
 
 Focus areas:
 
@@ -78,24 +88,29 @@ Focus areas:
 * signal acceleration tracking
 * campaign intelligence workflows
 
+Architecture documentation coming soon.
+
 ---
 
 ## Affiliate Assistant
 
-A commerce intelligence platform designed for AI-assisted monetization workflows.
+A commerce intelligence platform focused on **AI-assisted monetization workflows**.
 
 Focus areas:
 
 * affiliate infrastructure
 * creator storefront logic
+* AI decision routing
 * event-driven monetization systems
 * commerce intelligence pipelines
+
+Architecture documentation coming soon.
 
 ---
 
 # Development Approach
 
-I build systems using **AI-assisted engineering workflows**, combining architecture design with AI tools that accelerate software implementation.
+I build systems using **AI-assisted engineering workflows**, combining architectural design with tools that accelerate implementation.
 
 Key areas of focus:
 
@@ -108,7 +123,7 @@ Key areas of focus:
 
 # Portfolio
 
-AI Product Builder Portfolio:
+AI Product Builder Portfolio
 
 https://github.com/gboalabi/ai-product-builder
 
@@ -116,4 +131,5 @@ https://github.com/gboalabi/ai-product-builder
 
 # Contact
 
-GitHub: https://github.com/gboalabi
+GitHub:
+https://github.com/gboalabi
