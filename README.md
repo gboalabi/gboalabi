@@ -11,32 +11,26 @@ My focus is building **structured AI platforms that operate reliably in real-wor
 # AI Platform Ecosystem
 
 The systems below represent an ecosystem of AI platforms I am building.
-Each system explores a different layer of AI-powered product architecture.
+Each platform explores a different layer of AI-powered product architecture.
 
-```
-                    AI PLATFORM ECOSYSTEM
-                           │
-                           │
-        ┌──────────────────┼──────────────────┐
-        │                  │                  │
-   Content AI         Creative AI        Knowledge AI
-        │                  │                  │
-     DICOS            IKIRA AI Studio    AI Knowledge Hub
-        │                  │                  │
-        │                  │                  │
-        └──────────────┬───┴───┬─────────────┘
-                       │       │
-                 Trend Intelligence
-                       │
-                   Viral Waves
-                       │
-                       │
-                 Commerce Intelligence
-                       │
-               Affiliate Assistant
+```mermaid
+flowchart TD
+
+    A[AI Platform Ecosystem]
+
+    A --> B[DICOS<br>Domain Intelligence Content OS]
+
+    A --> C[IKIRA AI Studio<br>Creative AI Generation Platform]
+
+    A --> D[AI Knowledge Hub<br>Enterprise Knowledge AI]
+
+    A --> E[Viral Waves<br>Trend Intelligence Platform]
+
+    E --> F[Affiliate Assistant<br>Commerce Intelligence Platform]
 ```
 
-These platforms demonstrate how AI systems can combine **data pipelines, orchestration layers, and domain-aware generation** to create production-ready software.
+These platforms demonstrate how AI systems combine **data pipelines, orchestration layers, and domain-aware AI generation** to create production-ready software platforms.
+
 
 The systems below are documented through **code-first architecture audits**, where working repositories are analyzed and converted into system-level architecture documentation.
 
