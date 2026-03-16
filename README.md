@@ -6,6 +6,38 @@ I design and build **AI-driven software systems** by combining product architect
 
 My focus is building **structured AI platforms that operate reliably in real-world environments**.
 
+---
+
+# AI Platform Ecosystem
+
+The systems below represent an ecosystem of AI platforms I am building.
+Each system explores a different layer of AI-powered product architecture.
+
+```
+                    AI PLATFORM ECOSYSTEM
+                           │
+                           │
+        ┌──────────────────┼──────────────────┐
+        │                  │                  │
+   Content AI         Creative AI        Knowledge AI
+        │                  │                  │
+     DICOS            IKIRA AI Studio    AI Knowledge Hub
+        │                  │                  │
+        │                  │                  │
+        └──────────────┬───┴───┬─────────────┘
+                       │       │
+                 Trend Intelligence
+                       │
+                   Viral Waves
+                       │
+                       │
+                 Commerce Intelligence
+                       │
+               Affiliate Assistant
+```
+
+These platforms demonstrate how AI systems can combine **data pipelines, orchestration layers, and domain-aware generation** to create production-ready software.
+
 The systems below are documented through **code-first architecture audits**, where working repositories are analyzed and converted into system-level architecture documentation.
 
 ---
