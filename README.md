@@ -6,6 +6,8 @@ I design and build **AI-driven software systems** by combining product architect
 
 My focus is building **structured AI platforms that operate reliably in real-world environments**.
 
+The systems below are documented through **code-first architecture audits**, where working repositories are analyzed and converted into system-level architecture documentation.
+
 ---
 
 # What I Build
@@ -79,32 +81,37 @@ https://github.com/gboalabi/ai-product-builder/tree/main/projects/ai-knowledge-h
 
 ## Viral Waves
 
-A signal intelligence system designed to identify and monitor **emerging digital trends**.
+A trend intelligence platform designed to detect **early social momentum signals** and convert them into actionable campaign strategies.
 
 Focus areas:
 
-* trend signal detection
-* scoring and ranking systems
-* signal acceleration tracking
-* campaign intelligence workflows
+* trend signal ingestion and scoring pipelines
+* velocity and acceleration analysis
+* AI-assisted creative strategy generation
+* campaign planning workflows
+* alert-based signal monitoring
 
-Architecture documentation coming soon.
+Architecture documentation:
+
+https://github.com/gboalabi/ai-product-builder/tree/main/projects/viral-waves
 
 ---
 
 ## Affiliate Assistant
 
-A commerce intelligence platform focused on **AI-assisted monetization workflows**.
+A creator-commerce platform designed to support **AI-assisted monetization workflows for digital creators and affiliates**.
 
 Focus areas:
 
-* affiliate infrastructure
-* creator storefront logic
-* AI decision routing
+* affiliate offer aggregation
+* creator storefront infrastructure
+* AI-assisted product discovery
+* campaign optimization workflows
 * event-driven monetization systems
-* commerce intelligence pipelines
 
-Architecture documentation coming soon.
+Architecture documentation:
+
+https://github.com/gboalabi/ai-product-builder/tree/main/projects/affiliate-assistant
 
 ---
 
